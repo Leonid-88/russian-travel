@@ -17,3 +17,14 @@
         line-height: 1.62;
     }
 }
+
+
+@media screen and (max-width: 320px) {
+    .place__main-text {
+        font-size: 1em;
+        line-height: 1.62;
+        width: 82%;
+        padding: 0 23px;
+    }
+}
+

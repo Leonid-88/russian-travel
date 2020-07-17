@@ -25,9 +25,9 @@
 
 @media screen and (max-width: 320px) {
        .place {
-        grid-template-columns: minmax(320px) fit-content(50%);
-        grid-template-areas:"title website" "image main-text";
-        gap: 32px;
+        padding:0;
+        display:flex;
+        flex-direction: column;
        }
 }
 

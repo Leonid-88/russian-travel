@@ -4,9 +4,3 @@
     margin-right: 18px;
 }
 
-
-@media screen and (max-width: 320px) {
-    .footer__link {
-        margin: 0;
-    }
-}
