@@ -1,11 +1,5 @@
 @import url(./__list/places__list.css);
-@import url(./place/__image/place__image.css);
-@import url(./place/__main-text/place__main-text.css);
-@import url(./place/__paragraph/place__paragraph.css);
-@import url(./place/__title/place__title.css);
-@import url(./place/__url-heading/place__url-heading.css);
-@import url(./place/__website/place__website.css);
-@import url(./place/place.css);
+
 
 
 .places {

@@ -28,8 +28,8 @@
 @media screen and (max-width: 320px) {
     .photo-grid__items {
         display: grid;
-        grid-template-columns: repeat(auto-fit, minmax(288px, 270px));
+        grid-template-columns: repeat(auto-fit, minmax(288px, 212px));
         gap: 12px;
-        margin: 0 8px;
+        margin: 0;
     }
 }
