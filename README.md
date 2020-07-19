@@ -10,4 +10,4 @@
 
 Проектная работа заняла все свободное время и даже больше. Верстка получилась не идеальная, но я очень старался.
 
-https://leonid-88.github.io/russian-travel/.index.html
+https://leonid-88.github.io/russian-travel/

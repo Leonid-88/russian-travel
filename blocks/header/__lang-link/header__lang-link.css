@@ -5,15 +5,12 @@
     text-decoration: none;
     color: #fff;
     margin-left: 18px;
-    
 }
 
-.link-underline {
-    text-decoration: underline;
-}
 
 .header__lang-link:hover {
     text-decoration-line: underline;
+    opacity: 0.8;
 }
 
 @media screen and (max-width: 320px) {

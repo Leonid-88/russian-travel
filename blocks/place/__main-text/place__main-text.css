@@ -14,17 +14,20 @@
 @media screen and (max-width: 768px) {
     .place__main-text {
         font-size: 1em;
-        line-height: 1.62;
+        line-height: 1.63;
     }
 }
 
-
-@media screen and (max-width: 320px) {
-    .place__main-text {
-        font-size: 1em;
-        line-height: 1.62;
+@media screen and (max-width: 636px) {
+    .place ].place__main-text{
         width: 82%;
-        padding: 0 23px;
     }
 }
 
+    @media screen and (max-width: 320px) {
+        .place__main-text {
+            width: 90%;
+            padding: 0 16px;
+        }
+    }
+    

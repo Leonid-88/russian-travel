@@ -1,7 +1,12 @@
 @import url(./__content/page__content.css);
 
 
-.page {
+.page { 
+    max-width: 1280px;
+    width: 100%;
+    min-width: 320px;
+    margin: 0 auto;
+    padding: 0;
     background-color: #2A2C2F;
     color: #FFFFFF;
     font-family: 'Inter', Arial, sans-serif;

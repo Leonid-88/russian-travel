@@ -6,8 +6,8 @@
     padding: 0;
 }
 
-@media screen and (max-width: 320px){
+@media screen and (max-width: 600px){
     .place__website{
-        visibility: hidden;
+        display: none;
     }
 }
