@@ -6,3 +6,10 @@
     padding-top: 92px;
     
  }
+
+
+ @media screen and ( max-width: 535px) {
+     .cover {
+         padding-top: 0;
+     }
+ }
