@@ -1,12 +1,11 @@
 @import url(./__lang-link/header__lang-link.css);
 @import url(./__lang/header__lang.css);
 @import url(./__logo/header__logo.css);
-@import url(./__underline/header__underline.css);
+@import url(./__lang-link/_underline/header__lang-link_underline.css);
 
 .header {
     display: flex;
     justify-content: space-between;
-    min-height: 52px;
     padding: 28px 48px 0 48px;
     margin: 0 auto;
 }
