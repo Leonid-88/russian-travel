@@ -2,30 +2,29 @@
 @import url(./__image/lead__image.css);
 @import url(./__subtitle/leade__subtitle.css);
 @import url(./__title/lead__title.css);
+@import url(./__figure/lead__figure.css);
 
 
 .lead {
-    margin: 48px 148px 0;
+    padding: 56px 148px 0;
 }
 
 @media screen and (max-width: 1024px){
     .lead {
-        margin: 48px 48px 0;
+        padding: 48px 48px 0;
     }
 }
 
 @media screen and (max-width: 768px){
     .lead {
-        margin:48px 0 0;
+        padding:48px 0 0;
     }
 }
 
 @media screen and (max-width: 636px) {
-    .lead {
-        margin: 48px 0 0;
-    }
-}
-
-@media screen and (max-width: 320px){
    
+}
+ 
+@media screen and (max-width: 340px) {
+    
 }

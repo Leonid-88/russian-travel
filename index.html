@@ -10,13 +10,13 @@
         <link rel="stylesheet" href="./pages/index.css" />
         <title>Путешествия по России</title>
     </head>
-    <body class="body">
+    <body>
         <div class="page">
             <header class="header">
                 <img class="header__logo" src="./images/__logo.svg" alt="логотип Россия" />
                 <nav>
                     <ul class="header__lang">
-                        <li><a class=" header__lang-link header__lang-link_underline" href="#">Ru</a></li>
+                        <li><a class=" header__lang-link header__lang-link_active" href="#">Ru</a></li>
                         <li><a class="header__lang-link" href="#">En</a></li>
                     </ul>
                 </nav>
@@ -25,8 +25,9 @@
             <section class="lead">
                 <h1 class="lead__title">Путешествия по России</h1>
                 <p class="lead__subtitle">Настоящая страна не в выпусках новостей, а здесь.</p>
-                <img class="lead__image" src="./images/__image.png" alt="" />
-                <figure class="lead__caption">ваша полка — верхняя</figure>
+                <figure class="lead__figure"> <img class="lead__image" src="./images/__image.png" alt="карта путешествия" />
+                <figcaption class="lead__caption">ваша полка — верхняя</figcaption>
+            </figure>
             </section>
 
             <section class="intro">
@@ -178,6 +179,7 @@
                     <h2 class="cover__title">До Байкала «на&nbsp;собаках»</h2>
 
                     <p class="cover__subtitle">По мотивам учебной темы о Транссибе и iframes — путешествие от столицы до Байкала на электричках.</p>
+                 <div class="cover__overlay"></div>
                 </a>
             </section>
         </main>

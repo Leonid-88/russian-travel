@@ -7,7 +7,7 @@
     text-align: start;
 
 }
-    @media screen and (max-width: 320px){
+    @media screen and (max-width: 340px){
         .intro__title {
             font-size: 32px;
             line-height: 35px;

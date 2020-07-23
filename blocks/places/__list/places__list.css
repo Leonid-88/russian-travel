@@ -3,30 +3,35 @@
     margin:0;
     list-style: none;
 }
+@media screen and (max-width: 1100px) {
+    .places__list {
+        padding: 0 100px;
+    }
+}
 
-
-@media screen and (max-width: 1024px){
+@media screen and (max-width: 1024px) {
     .places__list {
         padding: 0 48px;
-}
+
+    }
 }
 
-@media screen and (max-width: 1024px){
+@media screen and (max-width: 680px) {
     .places__list {
-        padding: 0 38px;
-}
+        padding: 0 35px;
+    }
 }
 
 
-@media screen and (max-width: 768px){
+@media screen and (max-width: 768px) {
     .places__list {
         padding: 0 24px;
-}
+    }
 }
 
-@media screen and (max-width: 320px){
+@media screen and (max-width: 320px) {
     .places__list {
-        padding:0;
-}
+        padding: 0;
+    }
 
 }
