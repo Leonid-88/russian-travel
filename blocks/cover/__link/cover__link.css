@@ -1,8 +1,8 @@
 .cover__link {
-    display: flex;
-    flex-flow:column;
-    justify-content: center;
-    align-items: center;
+   display: flex;
+   flex-flow:column;
+   justify-content: center;
+   align-items: center;
     margin: 0 48px;
     padding: 0;
     position: relative;
@@ -15,6 +15,7 @@
     color: #FFFFFF;
     text-decoration: none;
 }
+
 
 
  @media screen and (max-width: 1024px) {
