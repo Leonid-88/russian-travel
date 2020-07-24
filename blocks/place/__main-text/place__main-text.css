@@ -20,7 +20,7 @@
 
 @media screen and (max-width: 536px) {
     .place__main-text {
-        padding: 0;
+        padding: 0 16px;
     }
 }
 
